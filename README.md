@@ -1,6 +1,6 @@
- Hi, I’m @Mustafa-Zahedi and I’m interested in python, js, php, css, html, java and R
+ Hi, I’m @Mustafa-Zahedi and I’m interested in Web Designing, AI, Data Science.
 - I’m currently learning web designing
-- I’m looking to collaborate on js and php
+- I’m looking to collaborate on js and python
 - my email is malestani21@gmail.com
 
 <!---
