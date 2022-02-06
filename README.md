@@ -1,4 +1,4 @@
-- interested in AI, Data Science, Web Designing.
+- interested in AI, Data Science and currently working on web designing.
 - looking to collaborate on js and python
 - malestani21@gmail.com
 
