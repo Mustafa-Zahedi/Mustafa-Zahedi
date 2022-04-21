@@ -140,7 +140,7 @@ You can click the Preview link to take a look at your changes.
       height="40"
     />
   </a>
-   <a href="https://python.com/" target="_blank" rel="noreferrer">
+   <a href="https://python.org/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/python/python-icon.svg"
       alt="tailwind"
