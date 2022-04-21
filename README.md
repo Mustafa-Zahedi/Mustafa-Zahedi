@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
  <a href="https://twitter.com/Mustafa_Zahedi2" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkdin" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/mustafa-zahedi-17870020b/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkdin" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:malestani21@gmail.com"> <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
