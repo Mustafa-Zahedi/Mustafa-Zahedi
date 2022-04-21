@@ -7,6 +7,8 @@ Mustafa-Zahedi/Mustafa-Zahedi is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+![](https://visitor-badge.laobi.icu/badge?page_id=mustafa-zahedi)
+
 ## ✉️ Find me on:
 
 
