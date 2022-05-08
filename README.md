@@ -1,5 +1,5 @@
 - interested into AI, Data Science and currently working on web development.
-- looking to collaborate on react.js and next.js
+- looking to collaborate on react.js and node.js
 - malestani21@gmail.com
 
 <!---
