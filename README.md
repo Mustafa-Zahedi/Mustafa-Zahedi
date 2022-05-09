@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    href="https://javascript.com"
     target="_blank"
     >
     <img
