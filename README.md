@@ -99,24 +99,6 @@ You can click the Preview link to take a look at your changes.
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  
   <a href="https://www.php.net" target="_blank">
        <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
@@ -138,6 +120,23 @@ You can click the Preview link to take a look at your changes.
     <img
       src="https://www.vectorlogo.zone/logos/java/java-icon.svg"
       alt="tailwind"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://www.mysql.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      width="40"
+      height="40"
+    />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"
+      alt="mysql"
       width="40"
       height="40"
     />
