@@ -83,6 +83,14 @@ You can click the Preview link to take a look at your changes.
     />
   </a>
   
+    <a href="https://nodejs.org/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
+      alt="vuejs"
+      width="40"
+      height="40"
+    />
+    </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
