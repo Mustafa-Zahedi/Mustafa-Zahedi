@@ -1,5 +1,5 @@
 - interested into AI, Data Science and currently working on web development.
-- looking to collaborate on <a href="https://reactjs.org">reactjs</a> and <a href="https://reactjs.org">nodejs</a>.
+- looking to collaborate on <a href="https://reactjs.org">reactjs</a> and <a href="https://nodejs.org">nodejs</a>.
 - I'm a <a href="https://mongodb.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
