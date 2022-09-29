@@ -1,5 +1,5 @@
 - interested into AI, Data Science and currently working on web development.
-- looking to collaborate on react.js and node.js
+- looking to collaborate on reactjs and nodejs
 - I'm a    <a href="https://mongodb.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
