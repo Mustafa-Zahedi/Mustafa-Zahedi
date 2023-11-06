@@ -1,4 +1,4 @@
-- interested into AI, Data Science and currently working on web development.
+- interested into AI and currently working on web development.
 - looking to collaborate on <a href="https://reactjs.org">reactjs</a> and <a href="https://nodejs.org">nodejs</a>.
 - I'm a <a href="https://mongodb.com/" target="_blank">
     <img
